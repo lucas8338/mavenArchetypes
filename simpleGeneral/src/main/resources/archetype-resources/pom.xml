@@ -13,14 +13,7 @@
 	<description></description> <!-- a short description of the project -->
 	<url></url>
 	<inceptionYear></inceptionYear> <!-- the year when the project was first created -->
-    <licenses> <!-- the licences used by the project -->
-		<license>
-		<name>Apache-2.0</name>
-		<url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
-		<distribution>repo</distribution>
-		<comments>A business-friendly OSS license</comments>
-		</license>
-	</licenses>
+    <licenses></licenses>
 	<organization></organization>
     <developers></developers>
     <contributors></contributors>
