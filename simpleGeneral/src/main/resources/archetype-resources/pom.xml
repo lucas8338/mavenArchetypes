@@ -46,7 +46,7 @@
 			<plugin> <!-- plugin to configure the maven compilation process. -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.11.0</version>
+				<version>3.12.1</version>
 				<configuration>
 					<source>${javaVersion}</source>
 					<target>${javaVersion}</target>
@@ -81,6 +81,7 @@
 						  too to the cloud during the 'deploy' phase. -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.6.3</version>
 				<executions>
 					<execution>
 						<id>attach-javadocs</id>

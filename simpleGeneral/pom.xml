@@ -4,7 +4,7 @@
  
   <groupId>lucas8338.maven_archetypes</groupId>
   <artifactId>simple_general</artifactId>
-  <version>1.0.0.1</version>
+  <version>1.0.1.0</version>
   <packaging>maven-archetype</packaging>
   
   <description>
